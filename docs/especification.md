@@ -6,7 +6,7 @@
 
 1. Me chamo Jorge, sou empresário e dono da rede de cinemas CineSuper.  Meus cinemas têm um ponto de vendas bem tradicional, com sistema somente na bilheteria, para marcar os assentos e gerar a contabilidade. Gostaria de poder oferecer uma maneira de vender os ingressos à distância para os meus clientes, assim, consigo me planejar para a quantidade de clientes, abrindo mais uma sala quando necessário e fornecendo uma forma mais fácil de me comunicar com os clientes e vender.
 
-1. [Persona 3?]
+1. Me chamo Pedro, tenho 18 anos, moro em Belo Horizonte e acabo de ingressar na faculdade de cinema. Me considero um cinéfilo, eu amo a experiência de ver filmes no cinema e assisto de tudo! Procuro sempre os ingressos mais baratos e frequento vários cinemas na cidade. Estou sempre disponível para ir ao cinema mas acho que acabo perdendo tempo demais tentando achar as sessões mais baratas e de filmes que ainda não assisti.
 
 ## Histórias de Usuários
 
