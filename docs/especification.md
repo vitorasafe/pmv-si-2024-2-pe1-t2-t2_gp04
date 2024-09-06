@@ -22,6 +22,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Dono do Cinema      | Encantar o cliente com um sistema fácil de usar  | Ter clientes sempre usando o aplicativo    |
 |Dono do Cinema      | Ter um relatório de vendas                       | Fazer a contabilidade no fechamento do mês |
 |Dono do Cinema      | Integrar as vendas online com a bilheteria física| Ter coerência entre os dois sistemas       |
+|Dono do Cinema      | Conduzir campanhas de marketing                  | Manter uma comunicação com o cliente       |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
