@@ -47,10 +47,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
 |RNF-001| A aplicação deve ser responsiva | MÉDIA | 
 |RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| A aplicação deve ser capaz de suportar picos de tráfego, especialmente durante lançamentos de filmes populares e horários de pico, como finais de semana |  MÉDIA | 
+|RNF-004| A aplicação deve estar em conformidade com as diretrizes de acessibilidade WCAG 2.1 para garantir que usuários com deficiência possam usar o sistema | MÉDIA | 
+|RNF-005| A aplicação deve ser compatível com os principais navegadores (Chrome, Firefox, Safari, Edge) e dispositivos móveis | MÉDIA | 
+|RNF-006| A aplicação deve estar em conformidade com as regulamentações de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados) no Brasil, e outras leis locais relacionadas a transações financeiras e privacidade | ALTA | 
+|RNF-007| Deve ter uma política de privacidade clara e acessível, informando aos usuários como seus dados serão coletados, utilizados e protegidos | MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
