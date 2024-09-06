@@ -8,6 +8,8 @@
 
 1. Me chamo Pedro, tenho 18 anos, moro em Belo Horizonte e acabo de ingressar na faculdade de cinema. Me considero um cinéfilo, eu amo a experiência de ver filmes no cinema e assisto de tudo! Procuro sempre os ingressos mais baratos e frequento vários cinemas na cidade. Estou sempre disponível para ir ao cinema mas acho que acabo perdendo tempo demais tentando achar as sessões mais baratas e de filmes que ainda não assisti.
 
+1. Meu nome é Ana, tenho 22 anos, moro em Curitiba e sou farmacêutica. Vou ao cinema no máximo três vezes no ano, geralmente vou para ver os grandes lançamentos. Eu gosto da experiência de ir ao cinema mas considero muito estressante a compra de ingressos, principalmente em filmes de grande procura e por geralmente ir acompanhada do meu namorado e amigos e dessa forma precisar de assentos próximos. Não incomoda os preços, mas gostaria de ter mais conforto na experiência de compra de ingressos online.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
