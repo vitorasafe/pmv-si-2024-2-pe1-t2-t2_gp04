@@ -1,35 +1,30 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
-
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1. Meu nome é Sabrina, tenho 25 anos, estou terminando a faculdade em Administração e moro em São Paulo. Tenho muito apreço por filmes, e por isso, frequento o cinema toda semana, muitas vezes com amigos ou com meu namorado. Sempre quero assistir alguma pré-estreia no cinema, mas já me frustrei por não conseguir o ingresso a tempo. Procuro uma forma rápida e fácil de comprar ingressos, pipoca e acompanhar os lançamentos dos cinemas da região.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+1. Me chamo Jorge, sou empresário e dono da rede de cinemas CineSuper.  Meus cinemas têm um ponto de vendas bem tradicional, com sistema somente na bilheteria, para marcar os assentos e gerar a contabilidade. Gostaria de poder oferecer uma maneira de vender os ingressos à distância para os meus clientes, assim, consigo me planejar para a quantidade de clientes, abrindo mais uma sala quando necessário e fornecendo uma forma mais fácil de me comunicar com os clientes e vender.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+1. Me chamo Pedro, tenho 18 anos, moro em Belo Horizonte e acabo de ingressar na faculdade de cinema e me considero um cinéfilo. Amo a experiência de ver filmes no cinema e assisto de tudo! Procuro sempre os ingressos mais baratos e frequento vários cinemas na cidade. Estou sempre disponível para ir ao cinema, mas acho que acabo perdendo tempo demais tentando achar as sessões mais baratas, e dos filmes que ainda não assisti.
+
+1. Meu nome é Ana, tenho 22 anos, moro em Curitiba e sou farmacêutica. Vou ao cinema no máximo três vezes no ano, geralmente para ver os grandes lançamentos. Eu gosto da experiência de ir ao cinema, mas considero muito estressante a compra de ingressos, principalmente em filmes de grande procura, já que, frequentemente acompanhada do meu namorado e amigos, preciso de assentos próximos. Não me incomodo com os preços, mas gostaria de ter mais conforto na experiência de compra de ingressos online.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`               |PARA ... `MOTIVO/VALOR`                     |
+|--------------------|--------------------------------------------------|--------------------------------------------|
+|Cliente do Cinema   | Comprar ingressos com antecedência               | Garantir um lugar nos filmes disputados    |
+|Cliente do Cinema   | Ter o melhor lugar possível escolhido na sala    | Me sentir mais confortável vendo o filme   |
+|Cliente do Cinema   | Comprar pipoca e acompanhamentos online          | Pegar pipoca e acompanhamentos rapidamente |
+|Cliente do Cinema   | Compartilhar os ingressos com os amigos          | Poder entrar na sala antes deles           |
+|Cliente do Cinema   | Ver os filmes e horários de vários cinemas       | Escolher a opção mais conveniente          |
+|Dono do Cinema      | Encantar o cliente com um sistema fácil de usar  | Ter clientes sempre usando o aplicativo    |
+|Dono do Cinema      | Ter um relatório de vendas                       | Fazer a contabilidade no fechamento do mês |
+|Dono do Cinema      | Integrar as vendas online com a bilheteria física| Ter coerência entre os dois sistemas       |
+|Dono do Cinema      | Conduzir campanhas de marketing                  | Manter uma comunicação com o cliente       |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -54,8 +49,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
 |RNF-001| A aplicação deve ser responsiva | MÉDIA | 
 |RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| A aplicação deve ser capaz de suportar picos de tráfego, especialmente durante lançamentos de filmes populares e horários de pico, como finais de semana |  MÉDIA | 
