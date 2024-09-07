@@ -32,8 +32,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+|RF-001| O usuário deve ser capaz de encontrar ingressos para diversas sessões | ALTA |  
+|RF-002| O usuário deve poder criar um perfil para uso da plataforma, com login e senha  | ALTA | 
+|RF-003| O usuário deve ser capaz de realizar pesquisas por filtros, como pesquisa por gênero e classisficação indicativa  | MÉDIA | 
+|RF-004| O usuário deve ter acesso ao(s) ingresso(s) comprado(s)  | ALTA | 
+|RF-005| O usuário deve ser capaz de comentar sobre a sessão que assistiu, apresentar críticas e informar sobre a duração dos trailers  | MÉDIA | 
+|RF-006| A aplicação deve mostrar ao usuário as sessões mais vazias | ALTA | 
+|RF-007| A plataforma deve apresentar ao usuário a possibilidade de comprar lanches para consumo durante e após a sessão | BAIXA | 
+|RF-008| A aplicação deve apresentar a possibilidade de pagar o ticket de estacionamento | MÉDIA | 
 
 
 ### Requisitos não Funcionais
