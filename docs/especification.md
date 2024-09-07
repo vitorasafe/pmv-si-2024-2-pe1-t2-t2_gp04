@@ -6,7 +6,7 @@
 
 1. Me chamo Jorge, sou empresário e dono da rede de cinemas CineSuper.  Meus cinemas têm um ponto de vendas bem tradicional, com sistema somente na bilheteria, para marcar os assentos e gerar a contabilidade. Gostaria de poder oferecer uma maneira de vender os ingressos à distância para os meus clientes, assim, consigo me planejar para a quantidade de clientes, abrindo mais uma sala quando necessário e fornecendo uma forma mais fácil de me comunicar com os clientes e vender.
 
-1. Me chamo Pedro, tenho 18 anos, moro em Belo Horizonte e acabo de ingressar na faculdade de cinema e me considero um cinéfilo. Amo a experiência de ver filmes no cinema e assisto de tudo! Procuro sempre os ingressos mais baratos e frequento vários cinemas na cidade. Estou sempre disponível para ir ao cinema, mas acho que acabo perdendo tempo demais tentando achar as sessões mais baratas, e dos filmes que ainda não assisti.
+1. Me chamo Pedro, tenho 18 anos, moro em Belo Horizonte e acabo de ingressar na faculdade de cinema e me considero um cinéfilo. Amo a experiência de ver filmes no cinema e assisto de tudo! Procuro sempre os ingressos mais baratos e frequento vários cinemas na cidade. Estou sempre disponível para ir ao cinema, mas acabo perdendo tempo demais tentando achar as sessões mais baratas, e dos filmes que ainda não assisti.
 
 1. Meu nome é Ana, tenho 22 anos, moro em Curitiba e sou farmacêutica. Vou ao cinema no máximo três vezes no ano, geralmente para ver os grandes lançamentos. Eu gosto da experiência de ir ao cinema, mas considero muito estressante a compra de ingressos, principalmente em filmes de grande procura, já que, frequentemente acompanhada do meu namorado e amigos, preciso de assentos próximos. Não me incomodo com os preços, mas gostaria de ter mais conforto na experiência de compra de ingressos online.
 
@@ -28,8 +28,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | 
@@ -42,21 +40,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser responsiva | ALTA | 
+|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
 |RNF-003| A aplicação deve ser capaz de suportar picos de tráfego, especialmente durante lançamentos de filmes populares e horários de pico, como finais de semana |  MÉDIA | 
 |RNF-004| A aplicação deve estar em conformidade com as diretrizes de acessibilidade WCAG 2.1 para garantir que usuários com deficiência possam usar o sistema | MÉDIA | 
 |RNF-005| A aplicação deve ser compatível com os principais navegadores (Chrome, Firefox, Safari, Edge) e dispositivos móveis | MÉDIA | 
 |RNF-006| A aplicação deve estar em conformidade com as regulamentações de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados) no Brasil, e outras leis locais relacionadas a transações financeiras e privacidade | ALTA | 
-|RNF-007| Deve ter uma política de privacidade clara e acessível, informando aos usuários como seus dados serão coletados, utilizados e protegidos | MÉDIA |
+|RNF-007| Deve ter uma política de privacidade clara e acessível, informando aos usuários como seus dados serão coletados, utilizados e protegidos | BAIXA |
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| Não pode usar aplicação paga de terceiros             |
-|02| Deve utilizar apenas soluções gratuitas ou open soucer                                                     |
-|03| A aplicação deve ser feita somente com HTML, CSS e JavaScript                                                 |
-|04| A aplicação não pode depender de módulos de backend                                                    |
+|ID| Restrição                                                     |
+|--|---------------------------------------------------------------|
+|01| Não pode usar aplicação paga de terceiros                     |
+|02| Deve utilizar apenas soluções gratuitas ou open source        |
+|03| A aplicação deve ser feita somente com HTML, CSS e JavaScript |
+|04| A aplicação não pode depender de módulos de backend           |
+|05| Os dados devem ser armazenados sem o uso de Banco de Dados    |
