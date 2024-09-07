@@ -7,7 +7,8 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+O objetivo deste projeto é revolucionar a experiência de ir ao cinema por meio de um Aplicativo Web, desde a etapa de descobrir filmes e salas de cinema até o momento em que você sai da sessão. Atividades cotidianas como procurar um filme para assistir, descobrir o melhor horário e localização, e escolher assentos são feitas digitalmente e com a maior facilidade possível.
 
 ## Integrantes
 
