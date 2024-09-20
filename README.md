@@ -1,13 +1,16 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15690064&assignment_repo_type=AssignmentRepo)
 # TicketWave
 
+<img src="https://github.com/user-attachments/assets/86976a21-ce12-45ef-9e6e-2045ef3bfbf8" width="400"/>
+<br/><br/><br/>
+
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
 
-
+<br/>
 O objetivo deste projeto é revolucionar a experiência de ir ao cinema por meio de um Aplicativo Web, desde a etapa de descobrir filmes e salas de cinema até o momento em que você sai da sessão. Atividades cotidianas como procurar um filme para assistir, descobrir o melhor horário e localização, e escolher assentos são feitas digitalmente e com a maior facilidade possível.
 
 ## Integrantes
