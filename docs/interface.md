@@ -12,11 +12,17 @@
 
 ## User Flow
 
-![UserFlow1](https://github.com/user-attachments/assets/c8251433-07a6-4652-8864-52518d80b081)<br>
+### Compra de filmes da Home Page
 
 ![UserFlow2](https://github.com/user-attachments/assets/abd1d442-91b8-4bad-9f4c-050b32f23031)<br>
 
+### Busca de filmes
+
 ![UserFlow3](https://github.com/user-attachments/assets/33ec3c15-91d7-408f-a987-c0861b553f6e)<br>
+
+### Compra de pipoca antecipadamente
+
+![UserFlow1](https://github.com/user-attachments/assets/c8251433-07a6-4652-8864-52518d80b081)<br>
 
 ## Wireframes
 
