@@ -23,14 +23,13 @@ Também estará sempre presente na página o footer com:
 
 ## Cores
 
-Preto de Fundo: #1C1C1C - Cor dominante e padrão para uso de backgrounds em sites escuros
-Amarelo: #F2A922 - Destaques e botões
-Red: #F24452 - Alertas e outros fatores para chamar a atenção
-Orange: #F25E3D - Destaques secundários.
-Roxo: #311F73 - Pequenos botões, caixas e outros elementos da interface, com um menor destaque. 
-Azul: #36C8D9 - Links, estados ativos, ou para contraste com cores mais quentes.
-
-Cinza: #AAA9A8 - Corpo de texto
+1. Preto de Fundo: #1C1C1C - Cor dominante e padrão para uso de backgrounds em sites escuros
+2. Amarelo: #F2A922 - Destaques e botões
+3. Red: #F24452 - Alertas e outros fatores para chamar a atenção
+4. Orange: #F25E3D - Destaques secundários.
+5. Roxo: #311F73 - Pequenos botões, caixas e outros elementos da interface, com um menor destaque. 
+6. Azul: #36C8D9 - Links, estados ativos, ou para contraste com cores mais quentes.
+7. Cinza: #AAA9A8 - Corpo de texto
 
 ![AdobeColor-My Color Theme (1)](https://github.com/user-attachments/assets/0cdbd058-d25e-440b-b4e0-68213ad7a927)
 
