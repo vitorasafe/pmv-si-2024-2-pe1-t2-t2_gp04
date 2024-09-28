@@ -12,8 +12,7 @@
 
 ## User Flow
 
-![image](https://github.com/user-attachments/assets/2c550734-6ef7-4306-804a-7d0bc626f064)
-
+![UserFlow](https://github.com/user-attachments/assets/71159635-c535-4759-8851-b171d418b2df)
 
 ### Compra de filmes da Home Page
 
