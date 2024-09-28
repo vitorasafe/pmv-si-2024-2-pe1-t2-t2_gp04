@@ -26,6 +26,14 @@
 
 ## Wireframes
 
+![WireFrame-Home Page drawio](https://github.com/user-attachments/assets/e935229a-fc54-4558-8f26-1de9b700f4cc)
+![WireFrame-Encontra seu Ingresso drawio](https://github.com/user-attachments/assets/bf0443a6-b7bf-4dae-9880-cd3256c72b4d)
+![WireFrame-Login drawio](https://github.com/user-attachments/assets/2e46470d-c874-4a75-b10a-7d4cd3a7245f)
+![WireFrame-Cadastro drawio](https://github.com/user-attachments/assets/c07f842f-4523-4670-af92-62001c2ffca8)
+![WireFrame-Lanches drawio](https://github.com/user-attachments/assets/aa225615-0f16-4c1d-93aa-41aa9f875c9b)
+
+
+
 ![Wireframe](https://github.com/user-attachments/assets/ca9fcd7c-f90c-41e9-b128-dbe30c1fc162)
  
 > **Links Úteis**:
