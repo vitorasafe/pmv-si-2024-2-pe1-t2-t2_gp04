@@ -1,52 +1,225 @@
 * {
-  font-family:Helvetica, sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-button {
-  top: 30px;
-  border: none;
-  padding: 1%;
-  cursor: pointer;
+html, body {
+    height: 100%;
 }
 
 body {
-  background-color: #343a40;
-  color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-.list-group-item {
-  background-color: #343a40;
-  color: #f8f9fa;
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: black;
+}
+
+.content {
+    flex-grow: 1;
+}
+
+/* Fix for footer */
+.footer {
+    color: #fff;
+    background-color: #222121b6;
+    padding: 20px;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.5);
+    margin-top: auto; /* Push footer to the bottom */
+}
+
+.footer-infos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-infos ul {
+    list-style-type: none;
+}
+
+.footer-infos ul li {
+    font-size: 0.8em;
+}
+
+.copyright {
+    text-align: center;
+}
+
+/* Header */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222121b6;
+    padding: 20px;
+}
+
+#logo {
+    width: 152px;
+    height: 137px;
+}
+
+#logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.menu {
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 190px; 
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+/* Filmes */
+.news {
+    display: flex;
+    justify-content:space-between;
+    max-width: 85%;
+    min-width: 85%;
+    margin: auto;
+    padding: 30px 0;
+}
+
+.news h3 {
+    color: #fff;
+}
+
+.scroll-btn {
+    padding: 10px;
+    background-color: #222121b6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+.movie-conteiner {
+    display: flex;
+    justify-content:space-around;
+    max-width: 90%;
+    min-width: 90%;
+    height: 500px;
+    align-items: center;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.card {
+    max-width:20%;
+    min-width: 20%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.movie-image {
+    width: 100%;
+    height: 80%;
+    margin: auto;
+}
+
+.movie-image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.movie-description {
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+    background-color: #222121b6;
+}
+
+.movies-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.movies-btn {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: .90em;
+    margin: auto;
+}
+
+.category {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.classification16 {
+    background-color: rgba(255, 0, 0, 0.466);
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.classification10 {
+    background-color: rgba(10, 174, 250, 0.521);
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.classificationL {
+    background-color: rgba(66, 252, 10, 0.466);
+    color: #fff;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.classificationA12 {
+    background-color: rgba(231, 235, 17, 0.774);
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
 }
 
 a {
-  color: #f8f9fa;
+    text-decoration: none;
+    color: #fff;
+    font-family: helvetica;
 }
 
-.placeholder-box {
-  height: 300px;
-  border: 2px dashed #f8f9fa;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #f8f9fa;
-  background-color: #343a40;
-  font-size: 1.5rem;
+p {
+    color: #fff;
 }
 
-.card-img-top {
-  width: 100%;
-  height: 15vw;
-  object-fit: cover;
-}
-
-.nav-link {
-  font-size: 1.3rem;
-}
-
-.navbar-brand {
-  font-size: 1.7rem;
+.btn-login {
+    width: 100%;
+    background-color: #fff;
+    color: black;
+    padding: 10px 60px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    transition: .5s;
+    font-weight: bold;
 }
