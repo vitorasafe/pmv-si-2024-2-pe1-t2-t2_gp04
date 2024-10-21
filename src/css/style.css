@@ -50,27 +50,3 @@ a {
 .navbar-brand {
   font-size: 1.7rem;
 }
-
-/* Login */
-
-#Login form {
-    max-width: 700px; 
-    margin: 50px auto; 
-    padding: 20px; 
-    background-color: black; 
-    border: 1px solid white; 
-    border-radius: 8px; 
-}
-
-#Login .form-group {
-    margin-bottom: 15px; 
-}
-
-#Login label {
-    font-weight: bold; 
-}
-
-#Login button{
-    border: 1px solid white; 
-    background-color: #222121b6;
-}
