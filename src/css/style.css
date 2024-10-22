@@ -50,3 +50,29 @@ a {
 .navbar-brand {
   font-size: 1.7rem;
 }
+
+#Login div{
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f8f9fa;
+  background-color: #343a40;
+  font-size: 1.75rem;
+}
+
+.btn-primary {
+  background-color: black; /* Cor de fundo do botão */
+  border-color: white; /* Cor da borda do botão */
+  padding: 10px 20px; /* Espaçamento interno do botão */
+  font-size: 16px; /* Tamanho da fonte do texto do botão */
+  border-radius: 5px; /* Bordas arredondadas */
+  width: 250px;
+}
+
+.btn-primary:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-color: yellow; 
+  color: rgba(255, 255, 0, 0.6);
+}
+
